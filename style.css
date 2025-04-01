@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:#017A25;
+    color: white;
+    font-size:20px;
+
+}
+
+header img{
+    width: 153px;
+    height: 79px;
+    padding:7px;
+}
+
+header p{
+    color:white;
+}
+
+a{
+    background-color: #017A25;
+    color:white;
+}
+
+p{
+    color:#017A25;
+}
+
+ol{
+    color:#017A25;
+}
+
+ul{
+    color:#017A25;
+}
+
+footer img{
+    width: 260px;
+    height: 180px;
+    
+}
+
+
